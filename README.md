@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
