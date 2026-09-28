@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -48,4 +49,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
