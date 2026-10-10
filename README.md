@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [1046-last-stone-weight](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -70,4 +71,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0027-remove-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
