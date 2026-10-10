@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -76,17 +78,29 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
