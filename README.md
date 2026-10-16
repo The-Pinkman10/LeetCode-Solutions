@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/The-Pinkman10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
